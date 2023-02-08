@@ -8,7 +8,7 @@ class Coin:
     # sideup data attribute with 'Heads'.
 
     def __init__(self):
-        self.sideup = 'Heads'
+        self.sideup = 'Heads'    #This is defining the attributes
 
     # The toss method generates a random number
     # in the range of 0 through 1. If the number
